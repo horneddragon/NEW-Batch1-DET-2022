@@ -1,0 +1,15 @@
+C:\Users\Etg1\Desktop\22813\c#\ParamsDemo\ParamsDemo\obj\Debug\net6.0\ParamsDemo.csproj.AssemblyReference.cache
+C:\Users\Etg1\Desktop\22813\c#\ParamsDemo\ParamsDemo\obj\Debug\net6.0\ParamsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Etg1\Desktop\22813\c#\ParamsDemo\ParamsDemo\obj\Debug\net6.0\ParamsDemo.AssemblyInfoInputs.cache
+C:\Users\Etg1\Desktop\22813\c#\ParamsDemo\ParamsDemo\obj\Debug\net6.0\ParamsDemo.AssemblyInfo.cs
+C:\Users\Etg1\Desktop\22813\c#\ParamsDemo\ParamsDemo\obj\Debug\net6.0\ParamsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Etg1\Desktop\22813\c#\ParamsDemo\ParamsDemo\bin\Debug\net6.0\ParamsDemo.exe
+C:\Users\Etg1\Desktop\22813\c#\ParamsDemo\ParamsDemo\bin\Debug\net6.0\ParamsDemo.deps.json
+C:\Users\Etg1\Desktop\22813\c#\ParamsDemo\ParamsDemo\bin\Debug\net6.0\ParamsDemo.runtimeconfig.json
+C:\Users\Etg1\Desktop\22813\c#\ParamsDemo\ParamsDemo\bin\Debug\net6.0\ParamsDemo.dll
+C:\Users\Etg1\Desktop\22813\c#\ParamsDemo\ParamsDemo\bin\Debug\net6.0\ParamsDemo.pdb
+C:\Users\Etg1\Desktop\22813\c#\ParamsDemo\ParamsDemo\obj\Debug\net6.0\ParamsDemo.dll
+C:\Users\Etg1\Desktop\22813\c#\ParamsDemo\ParamsDemo\obj\Debug\net6.0\refint\ParamsDemo.dll
+C:\Users\Etg1\Desktop\22813\c#\ParamsDemo\ParamsDemo\obj\Debug\net6.0\ParamsDemo.pdb
+C:\Users\Etg1\Desktop\22813\c#\ParamsDemo\ParamsDemo\obj\Debug\net6.0\ParamsDemo.genruntimeconfig.cache
+C:\Users\Etg1\Desktop\22813\c#\ParamsDemo\ParamsDemo\obj\Debug\net6.0\ref\ParamsDemo.dll
