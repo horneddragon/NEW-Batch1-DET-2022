@@ -11,6 +11,10 @@ namespace ConsoleAppDemo
     /// </summary>
     public class Manager : Emp
     {
+        private DateTime dateTime;
+        private string v1;
+        private int v2;
+
         public string Project { get; set; }
         public int Teamsize { get; set; }
         /// <summary>
@@ -27,9 +31,17 @@ namespace ConsoleAppDemo
             Teamsize = teamsize;
         }
 
-        public override string Print()
+        public Manager(int id, string name, DateTime dateTime, string v1, int v2) : base(id, name)
+        {
+            this.dateTime = dateTime;
+            this.v1 = v1;
+            this.v2 = v2;
+        }
+
+        public override string ToString()
         {
             return $"Emp Details={base.Print()}, Project={Project},Teamsize={Teamsize}";
         }
+        
     }
 }
