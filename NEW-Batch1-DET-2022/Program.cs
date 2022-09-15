@@ -1,9 +1,6 @@
 ﻿using Assignment_3;
 using BATCH1_DET_2022;
 using ConsoleAppDemo;
-
-//See https://aka.ms/new-console-template for more information
-using ConsoleAppDemo;
 using NEW_Batch1_DET_2022;
 using System.Net;
 using System.Xml.Linq;
@@ -14,7 +11,7 @@ class MyClass
     /// <summary>
     /// method that returns Grade based on the mark
     /// </summary>
-    /// <param name="mark">mark as the input</param>
+    /// <param //name="mark">mark as the input</param>
     /// <returns></returns>
     //public static string GetGrade(int mark) //IN parameter
     //{

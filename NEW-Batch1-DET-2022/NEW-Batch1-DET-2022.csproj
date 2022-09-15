@@ -6,7 +6,7 @@
     <RootNamespace>NEW_Batch1_DET_2022</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>NEW_Batch1_DET_2022.DataBaseFirstAproach</StartupObject>
+    <StartupObject>NEW_Batch1_DET_2022.Models.MainBook</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
